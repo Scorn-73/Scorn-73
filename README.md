@@ -1,5 +1,5 @@
 
-## About Me
+### About Me
 IT Support Engineer with hands-on experience across Microsoft 365, Active Directory, and enterprise user environments.
 
 Focused on progressing into a Systems Administrator role by building and documenting real-world infrastructure in a home lab.
@@ -17,9 +17,9 @@ Focused on progressing into a Systems Administrator role by building and documen
 
 ---
 
-## Current Projects
+### Current Projects
 
-### 🔧 Home Lab (In Progress)
+## Home Lab (In Progress)
 Building a Windows Server environment using Hyper-V:
 - Domain Controller deployment and configuration
 - Active Directory users, groups, and OU structure
@@ -32,7 +32,7 @@ Building a Windows Server environment using Hyper-V:
 
 ---
 
-### SharePoint & OneDrive Management
+## SharePoint & OneDrive Management
 - Managing SharePoint sites, permissions, and access control
 - Troubleshooting missing data and sync-related issues
 - Investigating file loss scenarios (audit logs, recycle bins, retention policies)
@@ -42,7 +42,7 @@ Building a Windows Server environment using Hyper-V:
 
 ---
 
-## What I'm Working Towards
+### What I'm Working Towards
 - Transitioning into a Systems Administrator role
 - Building deeper expertise in Windows Server infrastructure and cloud platforms
 - Expanding PowerShell automation capabilities
@@ -50,7 +50,7 @@ Building a Windows Server environment using Hyper-V:
 
 ---
 
-## Contact
+### Contact
 - LinkedIn: https://www.linkedin.com/in/samuel-cornwell-86350b1a3/
 
 <!--
