@@ -1,8 +1,6 @@
 
 ### About Me
-IT Support Engineer with hands-on experience across Microsoft 365, Active Directory, and enterprise user environments.
-
-Focused on progressing into a Systems Administrator role by building and documenting real-world infrastructure in a home lab.
+IT Support Engineer with hands-on experience across Microsoft 365, Active Directory, Intune, Azure and Entra ID
 
 ---
 
